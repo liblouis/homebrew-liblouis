@@ -1,7 +1,7 @@
 require 'formula'
 
 class Liblouis < Formula
-  homepage 'https://code.google.com/p/liblouis'
+  homepage 'http://www.liblouis.org'
   url 'http://liblouis.googlecode.com/files/liblouis-2.5.2.tar.gz'
   version '2.5.2'
   sha1 '93437f3c3a9a178ad08bdf6daca2a82cf3df2cc2'
